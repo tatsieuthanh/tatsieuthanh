@@ -1,4 +1,4 @@
-![Shows an illustrated sun in light mode and a moon with stars in dark mode.](C:\Users\Dell\Downloads\Banner.png)
+![Shows an illustrated sun in light mode and a moon with stars in dark mode.](.\Banner.png)
 
 <!--
 **tatsieuthanh/tatsieuthanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
