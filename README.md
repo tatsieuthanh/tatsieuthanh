@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=""C:\Users\Dell\Downloads\Tech Consultant business Banner.png"">
+  <source media="(prefers-color-scheme: dark)" srcset="C:\Users\Dell\Downloads\Tech Consultant business Banner.png">
 <picture>
 <!--
 **tatsieuthanh/tatsieuthanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
