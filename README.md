@@ -1,8 +1,5 @@
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="C:\Users\Dell\Downloads\Banner.png">
-    <source media="(prefers-color-scheme: light)" srcset="C:\Users\Dell\Downloads\Banner.png">
-    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="C:\Users\Dell\Downloads\Banner.png">
-<picture>
+![Shows an illustrated sun in light mode and a moon with stars in dark mode.](C:\Users\Dell\Downloads\Banner.png
+
 <!--
 **tatsieuthanh/tatsieuthanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
