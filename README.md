@@ -6,6 +6,7 @@
 + 🌱 I’m currently learning OpenCV, Linux, Py and Qt 
 
 + 📫 How to reach me tatsieuthanh888@gmail.com
+## 📱  Connect with me
 
 ## 🧰  Languages and Tools 
 [![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,linux,py,qt,raspberrypi,opencv)](https://skillicons.dev)
