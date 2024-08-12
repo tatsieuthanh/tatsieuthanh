@@ -9,5 +9,5 @@
 ## 📱  Connect with me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sieuthanh/)
 ## 🧰  Languages and Tools 
-[![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,linux,py,qt,raspberrypi,opencv)]
+[![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,linux,py,qt,raspberrypi,opencv)](https://www.linkedin.com/in/sieuthanh/)
 
