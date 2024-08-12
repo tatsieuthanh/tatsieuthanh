@@ -11,5 +11,3 @@
 ## 🧰  Languages and Tools 
 [![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,linux,py,qt,raspberrypi,opencv)]
 
-
-
