@@ -3,37 +3,7 @@
 
 **From a young age, I’ve recognized that technology is the future. Driven by a passion for research and learning, I strive to develop stable and high-performance systems. GitHub serves as a vital bridge for me to connect, share, and engage with leading coders, exploring and learning from their remarkable projects**
 
-🧰 Languages and Tools
-Java
-
-Spring
-
-TypeScript
-
-Angular
-
-Git
-
-Linux
-
-HTML
-
-CSS
-
-JavaScript
-
-React
-
-NodeJS
-
-Python
-
-C++
-
-GitHub
-
-Bash
-
+##🧰 Languages and Tools
 
 Here are some ideas to get you started:
 
