@@ -7,7 +7,7 @@
 
 + 📫 How to reach me tatsieuthanh888@gmail.com
 ## 📱  Connect with me
-[![My Skills](https://skillicons.dev/icons?i=linkein)](https://www.linkedin.com/in/sieuthanh/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sieuthanh/)
 ## 🧰  Languages and Tools 
 [![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,linux,py,qt,raspberrypi,opencv)](https://skillicons.dev)
 
